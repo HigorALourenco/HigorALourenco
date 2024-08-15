@@ -18,7 +18,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorALourenco&repo=github-readme-stats)](https://github.com/HigorALourenco/github-readme-stats)
 
 
-
 ##
 
 <div style="display: inline_block"><br>
