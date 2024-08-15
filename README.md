@@ -7,7 +7,8 @@
 <código><imagem altura="20" alt="Javascript-escritor" fonte="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"</>código>
 
 ### Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HigorALourenco=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark)](https://github.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats][javascript](https://github.com/user-attachments/assets/8c0959cf-67c8-4809-ba12-99dc1ada4863)
+
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.appapipinusername=githubjavascriptebac&repo=variavel&theme=dark)](https://github.comanuraghazragithub-readme-stats)
