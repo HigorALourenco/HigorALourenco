@@ -5,7 +5,7 @@
 ##### estou extremamente entusiasmado em ingressar na área de desenvolvimento de sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio e JavaScript na EBAC, o que tem proporcionado uma base sólida em conceitos fundamentais de programação e desenvolvimento de software.
 
 ### Detalhes
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HigorALourenco=anuraghazra&theme=dark&show_icons=true)
+https://github-readme-stats.vercel.app/api?HigorALourenco=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.appapipinusername=githubjavascriptebac&repo=variavel&theme=dark)](https://github.comanuraghazragithub-readme-stats)
