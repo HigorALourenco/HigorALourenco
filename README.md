@@ -8,12 +8,12 @@
 ### Detalhes
 ##
 
-| <a href="https://github.com/HigorALourenco/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HigorALourenco&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HigorALourenco github stats" /></a> | <a href="https://github.com/HigorALourenco/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorALourenco&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/HigorALourenco/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HigorALourenco&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HigorALourenco/variavel/blob/main/README.md" /></a> | <a href="https://github.com/HigorALourenco/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorALourenco&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 
 ### Projetos
 <a href="https://github.com/HigorALourenco/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HigorALourenco&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HigorALourenco/variavel/blob/main/README.md" />
 </a>
 
 
