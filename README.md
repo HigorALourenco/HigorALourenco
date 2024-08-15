@@ -8,14 +8,12 @@
 ### Detalhes
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorALourenco&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorALourenco&hide_progress=true&locale=pt-br)
 
 
-![Higor Lourenco GitHub stats](https://github-readme-stats.vercel.app/api?username=HigorALourenco&show_icons=true&theme=dracula)
+![Higor Lourenco GitHub stats](https://github-readme-stats.vercel.app/api?username=HigorALourenco&show_icons=true&theme=dracula&locale=pt-br)
 
 
-### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorALourenco&repo=github-readme-stats)](https://github.com/HigorALourenco/github-readme-stats)
 
 
 ##
