@@ -15,9 +15,8 @@
 
 
 ### Projetos
-<a href="https://github.com/HigorALourenco/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HigorALourenco/variavel/blob/main/README.md" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorALourenco&repo=github-readme-stats)](https://github.com/HigorALourenco/github-readme-stats)
+
 
 
 ##
