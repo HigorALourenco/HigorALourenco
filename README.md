@@ -4,7 +4,7 @@
 ##### Sobre o Higor
 ##### estou extremamente entusiasmado em ingressar na área de desenvolvimento de sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio e JavaScript na EBAC, o que tem proporcionado uma base sólida em conceitos fundamentais de programação e desenvolvimento de software.
 
-<código><imagem altura="20" alt="datilografado" fonte="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"</>código>
+<código><imagem altura="20" alt="Javascript-escritor" fonte="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"</>código>
 
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HigorALourenco=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark)](https://github.comanuraghazragithub-readme-stats)
